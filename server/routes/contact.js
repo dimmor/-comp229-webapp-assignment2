@@ -4,7 +4,6 @@ let mongoose = require('mongoose');
 
 let passport = require('passport');
 
-//let bookController = require('../controllers/book');
 let contactController = require('../controllers/contact');
 
 // helper function for guard purposes
